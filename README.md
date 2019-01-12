@@ -1,4 +1,4 @@
-# Student-attendance management system
+# Student attendance management system
 An attendance management system for student affairs unit that help in recording students' absence.
 
 A desktop system, built by C# and using XML files as data storage
