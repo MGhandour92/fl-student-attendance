@@ -9,3 +9,15 @@ D:\Others\Work\DS college M.tolba\Project_8_Attendance\Project_8_Attendance\obj\
 D:\Others\Work\DS college M.tolba\Project_8_Attendance\Project_8_Attendance\obj\Debug\Project_8_Attendance.Error.resources
 D:\Others\Work\DS college M.tolba\Project_8_Attendance\Project_8_Attendance\obj\Debug\Project_8_Attendance.Home.resources
 D:\Others\Work\DS college M.tolba\Project_8_Attendance\Project_8_Attendance\obj\Debug\Project_8_Attendance.Home_LoggedIn.resources
+F:\GIT\Freelance Work\fl-student-attendance\Project_8_Attendance\Project_8_Attendance\bin\Debug\Project_8_Attendance.exe.config
+F:\GIT\Freelance Work\fl-student-attendance\Project_8_Attendance\Project_8_Attendance\bin\Debug\Project_8_Attendance.exe
+F:\GIT\Freelance Work\fl-student-attendance\Project_8_Attendance\Project_8_Attendance\bin\Debug\Project_8_Attendance.pdb
+F:\GIT\Freelance Work\fl-student-attendance\Project_8_Attendance\Project_8_Attendance\obj\Debug\Project_8_Attendance.csprojAssemblyReference.cache
+F:\GIT\Freelance Work\fl-student-attendance\Project_8_Attendance\Project_8_Attendance\obj\Debug\Project_8_Attendance.Error.resources
+F:\GIT\Freelance Work\fl-student-attendance\Project_8_Attendance\Project_8_Attendance\obj\Debug\Project_8_Attendance.Home.resources
+F:\GIT\Freelance Work\fl-student-attendance\Project_8_Attendance\Project_8_Attendance\obj\Debug\Project_8_Attendance.Home_LoggedIn.resources
+F:\GIT\Freelance Work\fl-student-attendance\Project_8_Attendance\Project_8_Attendance\obj\Debug\Project_8_Attendance.Properties.Resources.resources
+F:\GIT\Freelance Work\fl-student-attendance\Project_8_Attendance\Project_8_Attendance\obj\Debug\Project_8_Attendance.csproj.GenerateResource.cache
+F:\GIT\Freelance Work\fl-student-attendance\Project_8_Attendance\Project_8_Attendance\obj\Debug\Project_8_Attendance.csproj.CoreCompileInputs.cache
+F:\GIT\Freelance Work\fl-student-attendance\Project_8_Attendance\Project_8_Attendance\obj\Debug\Project_8_Attendance.exe
+F:\GIT\Freelance Work\fl-student-attendance\Project_8_Attendance\Project_8_Attendance\obj\Debug\Project_8_Attendance.pdb
